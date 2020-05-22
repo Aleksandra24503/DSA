@@ -7,7 +7,7 @@ using namespace std;
 
 class Queue{
 public:
-    int number_of_elements;     // ile jest w tej chwili elementow
+    int number_of_elements;     // taki ogon
     int size_max; // ile moze byc maksimum
     int* table;   // elementy
 };
